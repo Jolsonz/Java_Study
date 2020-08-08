@@ -1,0 +1,29 @@
+package hello;
+
+/**
+ * @anthor Jolson
+ * @Create 2020-07-25 17:13
+ */
+public class caculate {
+
+    public int add(int a, int b) {
+        int result = a + b;
+        return result;
+    }
+
+    public int subtract(int a, int b) {
+        int result = a - b;
+        return result;
+    }
+
+    public int multiply(int a, int b) {
+        int result = a * b;
+        return result;
+    }
+
+    public int divide(int a, int b) {
+        int result = a / b;
+        return result;
+    }
+
+}

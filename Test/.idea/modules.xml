@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/学习/f.iml" filepath="$PROJECT_DIR$/学习/f.iml" />
       <module fileurl="file://$PROJECT_DIR$/学习/maybe.iml" filepath="$PROJECT_DIR$/学习/maybe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/学习/学习.iml" filepath="$PROJECT_DIR$/学习/学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/家庭收支/家庭收支.iml" filepath="$PROJECT_DIR$/家庭收支/家庭收支.iml" />
     </modules>
   </component>
 </project>
