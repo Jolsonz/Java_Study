@@ -1,7 +1,7 @@
 package 测试;
 
 /**
- * @anthor Jolson
+ * @author Jolson
  * @Create 2020-08-08 9:19
  */
 public class test {
