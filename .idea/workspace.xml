@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcc72aa6-f26f-46f5-9dbc-12afff96a33e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy3/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy3/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/Java_ShangGuiGu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/多线程.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/WindowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/WindowsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/WindowsTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/WindowsTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/接口.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/接口测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/接口测试.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady2/WindowTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady2/WindowTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/项目/项目.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/out/production/学习/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/学习/src/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/学习/学习.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/家庭收支/src/FamilyAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/家庭收支/src/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/家庭收支/家庭收支.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g50IZmI4DLUZP9et4Hp041tWNZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc72aa6-f26f-46f5-9dbc-12afff96a33e" name="Default Changelist" comment="" />
+      <created>1597389066541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597389066541</updated>
+    </task>
+    <servers />
+  </component>
+</project>
