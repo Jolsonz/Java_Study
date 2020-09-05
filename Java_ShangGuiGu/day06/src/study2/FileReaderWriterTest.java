@@ -202,6 +202,10 @@ public class FileReaderWriterTest {
 
     }
 
+    /**
+     * 注意这个不能拿来处理图片等字节数据，会出错，复制的图片比原图片大一倍，并且打不开。
+     * 处理图片等应该用字节流才行
+     * */
     @Test
     public void testFileReaderFileWriter(){
         FileReader fr = null;
