@@ -51,7 +51,7 @@ public class InputStreamReaderTest {
         i.close();//也只要关外层的即可。
     }
 
-//    综合使用InputStreamReader和OutputStreamWriter
+//    综合使用InputStreamReader和OutputStreamWriter，更改文件编码并另存
     @Test
     public void test2() throws Exception {
         //1.造文件、造流
@@ -76,4 +76,6 @@ public class InputStreamReaderTest {
         osw.close();
 
     }
+
+
 }
