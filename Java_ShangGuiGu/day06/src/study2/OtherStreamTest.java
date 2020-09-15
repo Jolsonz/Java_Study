@@ -107,15 +107,17 @@ public class OtherStreamTest {
     3.2 作用：用于读取或写出基本数据类型的变量或字符串
 
     练习：将内存中的字符串、基本数据类型的变量写出到文件中。
+    注意，这里打开这个写入的文件是会有一些乱码的，因为这不是给你这样读的。
+    是用来保存一些有用的数据的，数据保存在内存中不太靠谱的情况下可以用这个，但用了这个方法在文件中又是乱码，感觉没什么用处。这个东西对象也搞不定，存不了对象。
 
-    注意：处理异常的话，仍然应该使用try-catch-finally.
+    注意：处理异常的话，仍然应该使用try-catch-finally.这里偷懒了
      */
     @Test
     public void test3() throws IOException {
         //1.
         DataOutputStream dos = new DataOutputStream(new FileOutputStream("data.txt"));
         //2.
-        dos.writeUTF("刘建辰");
+        dos.writeUTF("刘建辰");//以UFT-8的形式输出，所以文件中反而能看到这个名字正常显示。
         dos.flush();//刷新操作，将内存中的数据写入文件
         dos.writeInt(23);
         dos.flush();
@@ -129,6 +131,7 @@ public class OtherStreamTest {
 
     注意点：读取不同类型的数据的顺序要与当初写入文件时，保存的数据的顺序一致！
 
+    这样才能正确读出数据。
      */
     @Test
     public void test4() throws IOException {

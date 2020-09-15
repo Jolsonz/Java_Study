@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/day06/IO流.iml" filepath="$PROJECT_DIR$/day06/IO流.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08/反射.iml" filepath="$PROJECT_DIR$/day08/反射.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/多线程.iml" filepath="$PROJECT_DIR$/day01/多线程.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02/常用类.iml" filepath="$PROJECT_DIR$/day02/常用类.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03/枚举类，注解.iml" filepath="$PROJECT_DIR$/day03/枚举类，注解.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05/泛型.iml" filepath="$PROJECT_DIR$/day05/泛型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07/网络.iml" filepath="$PROJECT_DIR$/day07/网络.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04/集合.iml" filepath="$PROJECT_DIR$/day04/集合.iml" />
       <module fileurl="file://$PROJECT_DIR$/项目/项目.iml" filepath="$PROJECT_DIR$/项目/项目.iml" />
     </modules>
