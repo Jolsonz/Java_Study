@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day06/day06.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day06/day06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/Java_ShangGuiGu.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/Java_ShangGuiGu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Study.iml" filepath="$PROJECT_DIR$/.idea/Java_Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day08/day08.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day08/day08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day01/day01.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day02/day02.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day03/枚举类,注解.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day03/枚举类,注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day05/day05.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day07/day07.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/day04/day04.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/day04/day04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_ShangGuiGu/项目/项目.iml" filepath="$PROJECT_DIR$/Java_ShangGuiGu/项目/项目.iml" />
     </modules>
   </component>

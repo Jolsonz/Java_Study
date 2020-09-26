@@ -1,53 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fcc72aa6-f26f-46f5-9dbc-12afff96a33e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy3/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy3/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/Java_ShangGuiGu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/多线程.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/ThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/ThreadTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/WindowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/WindowsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/WindowsTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/WindowsTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/接口.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady/接口测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy1/接口测试.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady2/WindowTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStady2/WindowTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_ShangGuiGu/day01/src/ThreadStudy2/WindowTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_ShangGuiGu/项目/项目.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/out/production/学习/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/学习/src/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/学习/学习.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/家庭收支/src/FamilyAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/家庭收支/src/Utility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/家庭收支/家庭收支.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g50IZmI4DLUZP9et4Hp041tWNZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java_ShangGuiGu/day06/libs" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="study2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_Study\Java_ShangGuiGu\day06\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ClassLoaderTest.test2">
+    <configuration name="ClassLoaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="反射" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study1" />
+      <option name="MAIN_CLASS_NAME" value="study1.ClassLoaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassLoaderTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="反射" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study1" />
+      <option name="MAIN_CLASS_NAME" value="study1.ClassLoaderTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassLoaderTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day08" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study1" />
+      <option name="MAIN_CLASS_NAME" value="study1.ClassLoaderTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewInstanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="反射" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study1" />
+      <option name="MAIN_CLASS_NAME" value="study1.NewInstanceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="反射" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study1" />
+      <option name="MAIN_CLASS_NAME" value="study1.ReflectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClassLoaderTest.test2" />
+        <item itemvalue="JUnit.ClassLoaderTest.test1" />
+        <item itemvalue="JUnit.ReflectionTest" />
+        <item itemvalue="JUnit.NewInstanceTest" />
+        <item itemvalue="JUnit.ClassLoaderTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,5 +170,80 @@
       <updated>1597389066541</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="128" key="#ClassLoaderTest.test2" timestamp="1601109873975">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="508" y="128" key="#ClassLoaderTest.test2/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601109873975" />
+    <state x="440" y="99" key="#Project_Structure" timestamp="1601108073013">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601108073013" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601109485010">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601109485010" />
+    <state x="732" y="234" key="FileChooserDialogImpl" timestamp="1601106240002">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="732" y="234" key="FileChooserDialogImpl/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601106240002" />
+    <state width="1879" height="278" key="GridCell.Tab.0.bottom" timestamp="1601110539625">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601110539625" />
+    <state width="1879" height="278" key="GridCell.Tab.0.center" timestamp="1601110539625">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601110539625" />
+    <state width="1879" height="278" key="GridCell.Tab.0.left" timestamp="1601110539625">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601110539625" />
+    <state width="1879" height="278" key="GridCell.Tab.0.right" timestamp="1601110539625">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601110539625" />
+    <state x="509" y="229" key="NewModule_or_Project.wizard" timestamp="1601106242142">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="509" y="229" key="NewModule_or_Project.wizard/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601106242142" />
+    <state x="560" y="124" key="SettingsEditor" timestamp="1601123024095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="124" key="SettingsEditor/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601123024095" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1601110204775">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601110204775" />
+    <state x="551" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601107548143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="551" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601107548143" />
+    <state x="124" y="145" key="new project wizard" timestamp="1601105797622">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="124" y="145" key="new project wizard/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601105797622" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1601110228995">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.140.1536.834@0.0.1920.1050" timestamp="1601110228995" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Study$ClassLoaderTest_test2.ic" NAME="ClassLoaderTest.test2 Coverage Results" MODIFIED="1601108303953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>study1.*</FILTER>
+    </SUITE>
   </component>
 </project>
