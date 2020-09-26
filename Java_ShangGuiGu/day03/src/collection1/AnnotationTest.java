@@ -94,9 +94,8 @@ public class AnnotationTest {
 }
 
 
-//jdk 8之前的写法：这里就是重复注解
+//jdk 8之前的写法：
 //@MyAnnotations({@MyAnnotation(value="hi"),@MyAnnotation(value="hi")})
-
 @MyAnnotation(value="hi")
 @MyAnnotation(value="abc")
 class Person{

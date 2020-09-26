@@ -46,7 +46,7 @@ public class NewInstanceTest {
                     classPath = "java.lang.Object";
                     break;
                 case 2:
-                    classPath = "com.atguigu.java.Person";
+                    classPath = "study1.Person";
                     break;
             }
 
